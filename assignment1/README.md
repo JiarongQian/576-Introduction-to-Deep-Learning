@@ -4,9 +4,9 @@ This folder contains the report and Jupyter notebooks for the course setup assig
 
 ## Contents
 
-- `ELEC576_Assignment_0-1.docx` - Assignment report
-- `task2.ipynb` - NumPy linear algebra equivalents
-- `task2_optional.ipynb` - Optional Stanford NumPy exercises
-- `task3.ipynb` - Required Matplotlib plot
-- `task4.ipynb` - Custom Matplotlib figure
+- `ELEC576_Assignment_0-1.docx` - Assignment1 report
+- `task2.ipynb` 
+- `task2_optional.ipynb`
+- `task3.ipynb` 
+- `task4.ipynb`
 
